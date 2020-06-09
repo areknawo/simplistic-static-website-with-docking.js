@@ -1,0 +1,18 @@
+{
+  "name": "docking-tutorial",
+  "version": "1.0.0",
+  "description": "Example Docking static website",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "watch": "dck watch",
+    "build": "dck build"
+  },
+  "dependencies": {
+    "@isotope/core": "^0.2.5",
+    "@isotope/docking": "^0.2.1",
+    "@isotope/prototope": "^0.2.1"
+  },
+  "devDependencies": {}
+}
